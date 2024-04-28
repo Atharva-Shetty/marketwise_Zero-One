@@ -21,6 +21,10 @@ Futher missing data was fill using custom Genrative AI model.
 
 ## Screenshots
 
+![image](https://github.com/Atharva-Shetty/marketwise_Zero-One/assets/94366989/7179fc5f-74e4-42b2-bd63-9c7c72ae5977)
+![image](https://github.com/Atharva-Shetty/marketwise_Zero-One/assets/94366989/3b8d66c6-6bff-4614-8cf3-d7f584f411ed)
+![image](https://github.com/Atharva-Shetty/marketwise_Zero-One/assets/94366989/8447454e-e16f-468b-9cde-84bc42b4fc8f)
+
 
 
 ## Technology Used
@@ -41,9 +45,11 @@ Optuna
 
 Pycaret
 
-**Team Members**
 
-Atharva Shetty
 
-Aditya Agarwal
+## Team Members
+
+[@Atharva-Shetty](https://www.github.com/Atharva-Shetty)
+
+[@Aditya-Agarwal](https://www.github.com/legendadii)
  
